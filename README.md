@@ -66,4 +66,4 @@ Sample Data:
 
 #### Load Data
 
-    $ python create_tables.py
+    $ python etl.py
